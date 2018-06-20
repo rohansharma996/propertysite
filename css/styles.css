@@ -1,0 +1,99 @@
+h1,h2,h3,h4{
+	font-family: "Arial Black", Gadget, sans-serif	 !important;
+}
+.jumbotron{
+	padding-top: 0 !important;
+	padding-bottom: 0 !important;
+	border-bottom:;
+	margin-bottom: 0 !important;
+	background-image: url(../img/03c.jpg);
+	height: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+    min-height: 500px;
+    border-bottom: 5px solid #f90c2c; 
+}
+footer{
+	border-top: 5px solid #ed4725;
+	min-height:300px;
+
+}  
+.btn-warning{
+	background-color: #f90c2c !important;
+	color: white !important;
+}
+
+#foot{
+margin-top: 80px;
+}
+
+.copy{
+	margin-top: 30px;
+}
+
+.middle{ 
+min-height: 350px;
+background-color: white; 
+}
+
+#formbox{
+	padding-top: 0;
+	padding-left: 30px;
+	padding-right: 30px;
+	border-radius: 5px 5px 5px 5px;
+	background-color: white;
+}
+
+#form-contain{
+	padding-top: 50px;
+}
+
+#sel-city{
+	min-width: 330px;
+}
+
+#search-btn{
+	margin-top: 10px;
+	margin-bottom: 15px;
+	min-width: 330px;
+	min-height: 40px;
+}
+
+.borderman{
+	border: 5px solid #f90c2c; 
+}
+
+#area{
+	max-width: 330px;
+}
+
+/* ------------  Middle ------------*/
+
+.padman{
+	padding-top: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+.middle2{
+	min-height: 350px;
+background-color: #f90c2c; 
+}
+
+.middle3{
+	min-height: 350px;
+	background-color: white;
+}
+
+.footer{
+	min-height: 435px;
+	background-color: #f90c2c;
+}
